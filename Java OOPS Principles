@@ -1,0 +1,83 @@
+What are java OOPS principles?
+
+Answer: Java OOPS principles are important concepts, which helps us to build 
+        an OOP Application/Real world application.
+		
+
+Why we need java OOPS principles?
+
+We can build an application more secure, reusable/scalable, flexible and with less complexity.
+
+-------------------------------------------------------------------------------------------------
+
+Encapsulation:
+=============
+what is an encapsulation?
+
+Answer: Binding/Wrapping the related fields(variables) and methods of a class into a single unit.
+
+why we are using encapsulation?
+
+Answer: It restricts direct access from the other classes.
+
+
+Inheritance:
+===========
+
+what is an Inheritance?
+
+Answer: It is a mechanism/process where one class properties(fields and methods) can inherits to 
+        another class.
+
+Why we are using an Inheritance?
+
+Answer: to achieve code re usability and we can create a new class from an existing class.
+
+Polymorphism:
+============
+
+what is an polymorphism?
+
+Answer: it process where a single action/method can perform differently 
+        in different classes or same class.
+
+Why we are using an polymorphism?
+
+Answer: it helps us to make our methods more flexible and reusable.
+
+
+Abstraction: 
+===========
+
+what is an Abstraction?
+
+Answer: it process of hiding the complex implementation details of a methods and only 
+        focus on how to use it.
+
+Why we are using an Abstraction?
+
+Answer: hide the complexity.
+
+--------------------------------------------------------------------------------------------
+
+Encapsulation
+	- by using classes(normal/abstract/interface)
+
+Inheritance
+	- by using extends/implements keywords
+	- types
+
+Polymorphism:
+	- overloading and overriding
+	- types
+		- static/compile time polymorphism
+			- constructor overloading and method overloading
+		- dynamic/run time polymorphism
+			- method overriding
+			
+Abstraction
+	- by using abstract classes and interfaces
+
+
+Task: Get 2 real world examples for all java object oriented 
+      principles(Encapsulation, Inheritance, Polymorphism and Abstraction)
